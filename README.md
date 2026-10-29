@@ -18,12 +18,12 @@
 
 ###  About Me
 
--  Data analyst who takes a business question from **raw, messy data to a finished dashboard and clear recommendations**
--  Comfortable with the full pipeline: **cleaning and ETL** (Power Query, Pandas), **data modelling**, **DAX measures**, and **visual storytelling**
+-  Data analyst who takes a business question from raw, messy data to a finished dashboard and clear recommendations
+-  Comfortable with the full pipeline: cleaning and ETL (Power Query, Pandas), data modelling, DAX measures, and visual storytelling
 -  I care about getting the data right: in my own projects I've caught and fixed date-parsing errors that silently dropped or misplaced most of the records
 -  Beyond BI, I've built web applications with AI modules, so I'm at home writing code, not only building dashboards
--  Currently building end-to-end projects in **customer segmentation (RFM), HR attrition, inventory optimisation and SaaS revenue analytics**
--  Open to **Data Analyst, BI Analyst and Reporting Analyst** roles
+-  Currently building end-to-end projects in customer segmentation (RFM), HR attrition, inventory optimisation and SaaS revenue analytics
+-  Open to Data Analyst, BI Analyst , Reporting Analyst and Business Analyst roles
 
 ---
 
