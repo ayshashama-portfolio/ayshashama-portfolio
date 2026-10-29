@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ayshashama-portfolio">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=640&lines=Turning+raw+data+into+business+decisions...;ETL+%E2%86%92+Data+Model+%E2%86%92+Dashboard+%E2%86%92+Insight;Power+BI+%7C+Power+Query+%7C+DAX+%7C+Python+%7C+SQL;Open+to+Data+Analyst+%2F+BI+Analyst+roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=640&lines=Turning+raw+data+into+business+decisions...;ETL+%E2%86%92+Data+Model+%E2%86%92+Dashboard+%E2%86%92+Insight;Power+BI+%7C+Power+Query+%7C+DAX+%7C+Python+%7C+SQL;Open+to+Data+Analyst+%2F+Business+Analyst+roles" alt="Typing SVG" />
   </a>
 </p>
 
