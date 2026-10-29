@@ -14,11 +14,6 @@
   <a href="https://github.com/ayshashama-portfolio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  🌐 <b>See all my projects, dashboards and case studies on my portfolio:</b>
-  <a href="https://ayshashamamusamil.netlify.app/">ayshashamamusamil.netlify.app</a>
-</p>
-
 ---
 
 ###  About Me
