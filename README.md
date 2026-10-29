@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm Aysha Shama 👋</h1>
-<h3 align="center">Data Analyst | Power BI · Python · SQL · Excel</h3>
+<h1 align="center">Hi there, I'm Aysha Shama </h1>
+<h3 align="center">Data Analyst | Power BI · Python · SQL · Excel · Qlik</h3>
 
 <p align="center">
   <a href="https://github.com/ayshashama-portfolio">
@@ -21,20 +21,20 @@
 
 ---
 
-### 💫 About Me
+###  About Me
 
-- 📊 Data analyst who takes a business question from **raw, messy data to a finished dashboard and clear recommendations**
-- 🧹 Comfortable with the full pipeline: **cleaning and ETL** (Power Query, Pandas), **data modelling**, **DAX measures**, and **visual storytelling**
-- 🔍 I care about getting the data right: in my own projects I've caught and fixed date-parsing errors that silently dropped or misplaced most of the records
-- 💻 Beyond BI, I've built web applications with AI modules, so I'm at home writing code, not only building dashboards
-- 🌱 Currently building end-to-end projects in **customer segmentation (RFM), HR attrition, inventory optimisation and SaaS revenue analytics**
-- 🚀 Open to **Data Analyst, BI Analyst and Reporting Analyst** roles
+-  Data analyst who takes a business question from **raw, messy data to a finished dashboard and clear recommendations**
+-  Comfortable with the full pipeline: **cleaning and ETL** (Power Query, Pandas), **data modelling**, **DAX measures**, and **visual storytelling**
+-  I care about getting the data right: in my own projects I've caught and fixed date-parsing errors that silently dropped or misplaced most of the records
+-  Beyond BI, I've built web applications with AI modules, so I'm at home writing code, not only building dashboards
+-  Currently building end-to-end projects in **customer segmentation (RFM), HR attrition, inventory optimisation and SaaS revenue analytics**
+-  Open to **Data Analyst, BI Analyst and Reporting Analyst** roles
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
-**📊 Data Analytics & BI**
+** Data Analytics & BI**
 
 | Project | Business question | Tools |
 |---|---|---|
@@ -42,7 +42,7 @@
 | [Uber Trip Data Analysis](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project) | When is ride demand highest, and what are trips used for? (1,154 trips, 12,195 miles) | Python, Pandas, Seaborn, Scikit-learn |
 | [iPhone Store Sales Analysis](https://github.com/ayshashama-portfolio/Iphone_sales_analysis) | What sells, what sells together, and when do customers order? (581 orders, market basket analysis) | Python, Pandas, Matplotlib |
 
-**🛠️ In progress**
+** In progress**
 
 | Project | Business question | Tools |
 |---|---|---|
@@ -51,7 +51,7 @@
 | Inventory Optimisation & Working Capital | Where is cash tied up in stock, and what will run out? | Python, ABC/XYZ analysis, DAX |
 | SaaS MRR & Retention | Where is recurring revenue gained and lost? | Python, Power Query, cohort analysis |
 
-**💻 Software & AI (academic)**
+** Software & AI (academic)**
 
 | Project | Description |
 |---|---|
@@ -60,7 +60,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Data & BI**
 
@@ -103,7 +103,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=ayshashama-portfolio&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
@@ -115,7 +115,7 @@
 
 ---
 
-### 📈 Contribution Snake
+###  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayshashama-portfolio/ayshashama-portfolio/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
@@ -123,7 +123,7 @@
 
 ---
 
-<p align="center"><i>💡 Open to Data Analyst and BI Analyst roles. Let's connect and turn data into decisions!</i></p>
+<p align="center"><i> Open to Data Analyst, BI Analyst, and Business Analyst roles. Let's connect and turn data into decisions!</i></p>
 
 <p align="center">
   <a href="https://ayshashamamusamil.netlify.app/"><img src="https://img.shields.io/badge/Visit_my_Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
