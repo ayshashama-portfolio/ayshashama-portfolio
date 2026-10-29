@@ -28,8 +28,7 @@
 ---
 
 ###  Featured Projects
-
-** Data Analytics & BI**
+**Data Analytics & BI**
 
 | Project | Business question | Tools |
 |---|---|---|
@@ -37,7 +36,7 @@
 | [Uber Trip Data Analysis](https://github.com/ayshashama-portfolio/uber-trip-data-analysis-project) | When is ride demand highest, and what are trips used for? (1,154 trips, 12,195 miles) | Python, Pandas, Seaborn, Scikit-learn |
 | [iPhone Store Sales Analysis](https://github.com/ayshashama-portfolio/Iphone_sales_analysis) | What sells, what sells together, and when do customers order? (581 orders, market basket analysis) | Python, Pandas, Matplotlib |
 
-** In progress**
+**In progress**
 
 | Project | Business question | Tools |
 |---|---|---|
@@ -46,7 +45,7 @@
 | Inventory Optimisation & Working Capital | Where is cash tied up in stock, and what will run out? | Python, ABC/XYZ analysis, DAX |
 | SaaS MRR & Retention | Where is recurring revenue gained and lost? | Python, Power Query, cohort analysis |
 
-** Software & AI (academic)**
+**Software & AI (academic)**
 
 | Project | Description |
 |---|---|
